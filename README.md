@@ -1,5 +1,10 @@
 # Java-Desktop-Application-Template
 
+## How to Use
+
+1. Press the `Use this template` button
+2. Name your repository 
+
 ## The project contains
 
 ### Packages
