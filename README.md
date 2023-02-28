@@ -17,4 +17,4 @@
 
 ## Licence 
 
-[MIT](https://github.com/DMG-TechLabs/Java-Desktop-Application-Template/blob/main/LICENSE) Licence
+This work is published under the [MIT](https://github.com/DMG-TechLabs/Java-Desktop-Application-Template/blob/main/LICENSE) Licence
