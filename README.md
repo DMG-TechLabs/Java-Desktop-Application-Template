@@ -19,8 +19,8 @@
 
 ### Libraries
 
-* MADB library for managing a Microsoft Access Database
-* Swing-Themes Library for creating and managing custom java swing, color-based themes
+* [MADB](https://github.com/KDesp73/MADB) library for managing a Microsoft Access Database
+* [Swing-Themes](https://github.com/KDesp73/Swing-Themes-Library) Library for creating and managing custom java swing, color-based themes
 
 ## Licence 
 
