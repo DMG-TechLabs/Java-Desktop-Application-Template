@@ -11,6 +11,7 @@
 
 * API package with an API class containing a GET method
 * Database package with a Database class for accessing the MADB library easily
+* Exceptions package
 * GUI package with a MainFrame class
 * Files package for file handling purposes
 * Utils package with a UserInput class
