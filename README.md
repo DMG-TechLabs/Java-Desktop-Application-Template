@@ -2,7 +2,7 @@
 
 ## How to Use
 
-1. Press the `Use this template` button
+1. Press `Use this template` -> `Create a new repository`
 2. Name your repository 
 
 ## The project contains
